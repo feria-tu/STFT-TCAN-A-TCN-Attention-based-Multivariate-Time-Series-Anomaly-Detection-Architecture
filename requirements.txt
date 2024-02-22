@@ -1,0 +1,6 @@
+pandas
+tqdm
+PyWavelets
+statsmodels
+matplotlib
+scikit-learn
