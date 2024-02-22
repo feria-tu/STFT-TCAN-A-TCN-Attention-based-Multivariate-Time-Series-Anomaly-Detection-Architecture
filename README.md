@@ -19,4 +19,4 @@ python3 data_prepocessed.py
 ```bash
 python3 main.py --dataset <dataset>
 ```
-dataset: SMD/SWaT/MSL/MBA/WADI/SMAP
+dataset: SMD\SWaT\MSL\MBA\WADI\SMAP
