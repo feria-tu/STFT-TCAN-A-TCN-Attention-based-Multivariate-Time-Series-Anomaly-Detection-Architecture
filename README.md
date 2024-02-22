@@ -3,8 +3,8 @@ STFT-TCAN: A TCN-Attention based Multivariate Time Series Anomaly Detection Arch
 
 ## INSTALLATION
 ```bash
-conda create -n tsad python=3.8
-conda activate tsad
+conda create -n stft python=3.8
+conda activate stft
 pip3 install -r requirements.txt
 ```
 
