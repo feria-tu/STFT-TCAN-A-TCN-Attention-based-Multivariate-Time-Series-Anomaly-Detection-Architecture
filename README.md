@@ -8,6 +8,28 @@ conda activate stft
 pip3 install -r requirements.txt
 ```
 
+## Datasets
+you can get the dataset through the links below:
+```
+MBA: 
+https://physionet.org/content/mitdb/1.0.0/
+
+SMAP_MSL: 
+data taken from:
+https://s3-us-west-2.amazonaws.com/telemanom/data.zip
+labeled anomalies from:
+https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
+
+SMD:
+This dataset is taken as is from https://github.com/NetManAIOps/OmniAnomaly
+
+SWaT:
+series.json taken from : https://raw.githubusercontent.com/JulienAu/Anomaly_Detection_Tuto/master/Data/serie2.json
+
+WADI:
+https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi
+```
+
 ## Dataset Preprocessing
 
 ```bash
